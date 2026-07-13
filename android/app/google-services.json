@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019949073232",
+    "project_id": "wealthos-cc738",
+    "storage_bucket": "wealthos-cc738.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019949073232:android:f92e531daea91172422255",
+        "android_client_info": {
+          "package_name": "com.portfolio.finance_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAShWzSO4x4Yk4wy8foQwJgE3t1sLWhUsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
