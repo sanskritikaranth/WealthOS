@@ -201,9 +201,8 @@ This project is open source and available for personal and educational use.
 
 ## 🙋 Author
 
-Built by **[Your Name]** — 4th year ISE student.
+Built by **SANSKRITI KARANTH** — 4th year ISE student.
 
-📧 [your.email@example.com](mailto:your.email@example.com) • 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) • 💻 [GitHub](https://github.com/yourusername)
 
 ---
 
